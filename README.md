@@ -17,3 +17,22 @@ Walmart is the world's largest company by revenue, with about US$570 billion in 
 <li>Personalizing Shopping Experience: With Big Data, Walmart analyzes the shopping preferences of the customers to develop a consistent and delightful shopping experience.</li>
 
 </ul>
+
+The file has information about the Weekly Sales of 45 stores for the year 2010-2012 including the factors affectors affecting Sales such as Holidays, Temperature, Fuel Price, CPI, and Unemployment.
+
+Within the Dataset file, following fields are present:
+
+Store - the store number
+Date - the week of sales
+Weekly_Sales - sales for the given store
+Holiday_Flag - whether the week is a holiday week 1 – Holiday week 0 – Non-holiday week
+Temperature - Temperature on the day of sale
+Fuel_Price - Cost of fuel in the region
+CPI – Prevailing consumer price index
+Unemployment - Prevailing unemployment rate
+Holiday Events in the Week
+
+Super Bowl: 12-Feb-10, 11-Feb-11, 10-Feb-12
+Labour Day: 10-Sep-10, 9-Sep-11, 7-Sep-12
+Thanksgiving: 26-Nov-10, 25-Nov-11, 23-Nov-12
+Christmas: 31-Dec-10, 30-Dec-11, 28-Dec-12
