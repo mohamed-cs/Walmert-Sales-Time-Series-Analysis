@@ -22,6 +22,7 @@ The file has information about the Weekly Sales of 45 stores for the year 2010-2
 
 Within the Dataset file, following fields are present:
 
+<ul>
 Store - the store number
 Date - the week of sales
 Weekly_Sales - sales for the given store
@@ -30,9 +31,14 @@ Temperature - Temperature on the day of sale
 Fuel_Price - Cost of fuel in the region
 CPI – Prevailing consumer price index
 Unemployment - Prevailing unemployment rate
+
+</ul>
+
 Holiday Events in the Week
 
+<ul>
 Super Bowl: 12-Feb-10, 11-Feb-11, 10-Feb-12
 Labour Day: 10-Sep-10, 9-Sep-11, 7-Sep-12
 Thanksgiving: 26-Nov-10, 25-Nov-11, 23-Nov-12
 Christmas: 31-Dec-10, 30-Dec-11, 28-Dec-12
+</ul>
